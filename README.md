@@ -1,4 +1,4 @@
-# Camome UI Forum
+# Camome UI Community
 
-- Requests for new features, templates, components, etc. 👉 [Discussions](https://github.com/sabigara/camome-forum/discussions/)
-- Bug reports 👉 [Issues](https://github.com/sabigara/camome-forum/issues)
+- [Discussions](https://github.com/sabigara/camome-forum/discussions/) - Requests for new features, templates, components, etc.
+- [Issues](https://github.com/sabigara/camome-forum/issues) - Bug reports
